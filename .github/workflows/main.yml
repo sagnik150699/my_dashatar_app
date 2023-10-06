@@ -45,17 +45,17 @@ jobs:
       - name: Install Flutter
         run: |
           git clone https://github.com/flutter/flutter.git --depth 1 -b stable _flutter
-          echo "_flutter/bin" >> $GITHUB_PATH
+          echo "D:\a\_temp\_flutter\bin" >> $GITHUB_PATH
 
       - name: Flutter Config
         run: |
-          flutter config --enable-windows-desktop
+          D:\a\_temp\_flutter\bin\flutter.bat config --enable-windows-desktop
 
       - name: Install Dependencies
-        run: flutter pub get
+        run: D:\a\_temp\_flutter\bin\flutter.bat pub get
 
       - name: Build Windows Executable
-        run: flutter build windows
+        run: D:\a\_temp\_flutter\bin\flutter.bat build windows
 
       - name: Upload Windows Artifact
         uses: actions/upload-artifact@v2
