@@ -17,7 +17,7 @@ Follow these steps, and you’ll have the Dashatar App up and running in no time
 
 ## Dive Deeper with the Course
 
-Hungry for more Flutter magic? Check out the [Complete Flutter Guide 2024](https://codingliquids.com). It’s your golden ticket to becoming a Flutter wizard.
+Hungry for more Flutter magic? Check out the [Complete Flutter Guide 2024: Build Android, iOS, and Web apps](https://codingliquids.com). It’s your golden ticket to becoming a Flutter wizard.
 
 ## Let's Connect!
 
