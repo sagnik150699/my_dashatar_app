@@ -1,5 +1,4 @@
 import 'dart:math';
-
 import 'package:audioplayers/audioplayers.dart';
 import 'package:flutter/material.dart';
 
@@ -66,7 +65,7 @@ class _MyAppState extends State<MyApp> {
           ),
           onPressed: () {
             setState(() {
-              String kick = "";
+              // String kick = "";
               // count++;
               player.play(AssetSource(sounds[soundPosition]));
               appBar = random.nextInt(6);

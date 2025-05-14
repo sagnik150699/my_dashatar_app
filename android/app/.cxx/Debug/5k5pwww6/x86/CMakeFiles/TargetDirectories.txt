@@ -1,0 +1,2 @@
+C:/Users/sagni/Documents/Workspace/my_dashatar_app/android/app/.cxx/Debug/5k5pwww6/x86/CMakeFiles/edit_cache.dir
+C:/Users/sagni/Documents/Workspace/my_dashatar_app/android/app/.cxx/Debug/5k5pwww6/x86/CMakeFiles/rebuild_cache.dir
