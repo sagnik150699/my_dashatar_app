@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sagnik150699/Sagnik-Bhattacharya/master/public/sagnik-bhattacharya.png" alt="Sagnik Bhattacharya" width="180">
+</p>
+Website: [sagnikbhattacharya.com](https://sagnikbhattacharya.com)
+
 # Welcome to the Dashatar App! 🚀
 
 Hey there! I'm Sagnik Bhattacharya, the brain behind the Dashatar App and your guide through the **Complete Flutter Guide 2024: Build Android, iOS, and Web apps** course, brought to you by Coding Liquids.
