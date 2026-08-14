@@ -5,6 +5,12 @@ Website: [sagnikbhattacharya.com](https://sagnikbhattacharya.com)
 
 # Welcome to the Dashatar App! 🚀
 
+## Course
+
+This project is part of **The Complete Flutter Course: Build Android, iOS, and Web apps**.
+
+[View the course on Coding Liquids](https://www.codingliquids.com/courses/Flutter-Course-Learn-to-Build-Android-iOS-and-Web-apps-637b978ee4b08f9aaa22d2cb)
+
 Hey there! I'm Sagnik Bhattacharya, the brain behind the Dashatar App and your guide through the **Complete Flutter Guide 2024: Build Android, iOS, and Web apps** course, brought to you by Coding Liquids.
 
 ## What's This App All About?
